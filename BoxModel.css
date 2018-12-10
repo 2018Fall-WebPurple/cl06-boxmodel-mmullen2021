@@ -1,0 +1,30 @@
+/*
+*Maura Mullen
+*December 4
+*BoxModel
+*/
+/* The universal selector*/
+* {
+}
+/*Body attributes here*/
+body{
+   
+}
+
+*{margin:0px; padding:0;}
+
+body{border:2px dotted green;}
+
+h1{border:thin dashed red;
+    padding: 10px 5px;
+    margin:20px 5px;
+}
+
+p{border: thin dashed purple;
+   padding: 10px 5px;
+    margin:20px 5px;
+}
+
+main{border:3px solid blue
+    padding:
+}
